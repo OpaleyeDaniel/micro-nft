@@ -417,6 +417,9 @@ footer .right p{
     footer .links a{
         font-size: 15px;
     }
+    .nft-shop .nft-list .item img{
+        height: 3%;
+    }
 }
 
 @media screen and (max-width:992px ) {
