@@ -516,4 +516,7 @@ footer .right p{
     .nft-shop .category a{
         font-size: 13px;
     }
+    .nft-shop .nft-list .item img{
+        height: 20vh;
+    }
 }
